@@ -10,7 +10,7 @@
   <packagedElement xmi:type="uml:Class" xmi:id="_QoJEQE0GEe6LW5XWxQk7Fg" name="Board">
     <ownedAttribute xmi:type="uml:Property" xmi:id="_gSHwME0OEe6LW5XWxQk7Fg" name="piece" type="_Tpi_wE0GEe6LW5XWxQk7Fg" aggregation="composite" association="_gR6U0E0OEe6LW5XWxQk7Fg">
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gSJlYE0OEe6LW5XWxQk7Fg" value="2"/>
-      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gSKMcE0OEe6LW5XWxQk7Fg" value="8"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gSKMcE0OEe6LW5XWxQk7Fg" value="16"/>
     </ownedAttribute>
   </packagedElement>
   <packagedElement xmi:type="uml:Class" xmi:id="_Rjl_4E0GEe6LW5XWxQk7Fg" name="Player">
