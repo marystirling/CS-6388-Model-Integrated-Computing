@@ -94,4 +94,5 @@
     <ownedEnd xmi:type="uml:Property" xmi:id="_ZzobAE3YEe6teMSSDtUHfg" name="game" type="_SnOnIE0GEe6LW5XWxQk7Fg" association="_ZzhGQE3YEe6teMSSDtUHfg"/>
   </packagedElement>
   <packagedElement xmi:type="uml:Abstraction" xmi:id="_-kzhsFDWEe6Fq_3rnMfjdA" name="Position" client="_Tpi_wE0GEe6LW5XWxQk7Fg" supplier="_U6Id4E0GEe6LW5XWxQk7Fg"/>
+  <packagedElement xmi:type="uml:Abstraction" xmi:id="_tVfFQFDyEe6Fq_3rnMfjdA" name="player_turn" client="_SnOnIE0GEe6LW5XWxQk7Fg" supplier="_Rjl_4E0GEe6LW5XWxQk7Fg"/>
 </uml:Model>
