@@ -435,4 +435,17 @@
     <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Z0c6YE3YEe6teMSSDtUHfg" id="(0.40540540540540543,1.0)"/>
     <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Z0dhcE3YEe6teMSSDtUHfg" id="(0.4,0.0)"/>
   </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_-lnaAFDWEe6Fq_3rnMfjdA" type="Abstraction_Edge" source="_TqA50E0GEe6LW5XWxQk7Fg" target="_U6PLkE0GEe6LW5XWxQk7Fg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-lxyEFDWEe6Fq_3rnMfjdA" type="Abstraction_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_-lyZIFDWEe6Fq_3rnMfjdA" y="40"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_-l01YFDWEe6Fq_3rnMfjdA" type="Abstraction_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_-l01YVDWEe6Fq_3rnMfjdA" y="60"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_-loBEFDWEe6Fq_3rnMfjdA"/>
+    <element xmi:type="uml:Abstraction" href="Chess_Game.uml#_-kzhsFDWEe6Fq_3rnMfjdA"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-looIFDWEe6Fq_3rnMfjdA" points="[287, 220, -643984, -643984]$[380, 200, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-oquAFDWEe6Fq_3rnMfjdA" id="(1.0,0.15625)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-osjMFDWEe6Fq_3rnMfjdA" id="(0.0,0.46875)"/>
+  </edges>
 </notation:Diagram>
